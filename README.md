@@ -1,3 +1,3 @@
-Hello, Git
-\n It's feature-branch
+**Hello, Git**\
+It's feature-branch\
 Added more details to README
